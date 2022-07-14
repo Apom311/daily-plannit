@@ -16,3 +16,6 @@ used JSON to parse local storage on page load to keep track of saved events, usi
 
 
 --
+[screenshot](livePage.PNG)
+[livePage](https://apom311.github.io/daily-plannit/)
+
